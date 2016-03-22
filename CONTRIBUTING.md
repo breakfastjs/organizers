@@ -1,4 +1,4 @@
-# nodeschool organizers
+# nodeschool organisers
 
 ### what is nodeschool
 
@@ -7,11 +7,11 @@ We are a **100% volunteer run** international open source community. We always n
 There are two main things that nodeschool does:
 
 - build and maintain automated workshops that teach software + open source skills
-- organize educational events around the world
+- organise educational events around the world
 
 Here are some of the tenets of the community:
 
-- there is no top-down leadership structure. we have thousands of students, hundreds of chapter organizers, and a small group of central admins who keep the website running etc.
+- there is no top-down leadership structure. we have thousands of students, hundreds of chapter organisers, and a small group of central admins who keep the website running etc.
 - chapters should experiment with new ways to engage their community, and share approaches with other chapters over time
 - events should be affordable and should strive towards diversity and inclusiveness
 - we are 100% open source and like to license things as open source/creative commons
@@ -33,7 +33,7 @@ See if there is a [chapter near you](http://nodeschool.io/chapters.html). Each c
 
 There might be an issue for new or prospective members to introduce themselves, or there may be one that is an announcement/planning for the next event. You should click **Watch** on your chapters repo so that you get emails when new discussions happen.
 
-If there is no local chapter, and you want to start one, [check out our guide](https://github.com/nodeschool/organizers/#how-to-start-a-new-nodeschool-chapter).
+If there is no local chapter, and you want to start one, [check out our guide](https://github.com/nodeschool/organisers/#how-to-start-a-new-nodeschool-chapter).
 
 #### help answer questions/tech support
 
@@ -51,11 +51,11 @@ In this case it's maintained by @sethvincent. You can check out the [open issues
 
 #### create a new workshop
 
-If you have an idea for a new workshop, you can dive right in and [build a new one](http://nodeschool.io/building-workshops.html). If you want feedback on your idea, open an issue on the [organizers repo issue tracker](https://github.com/nodeschool/organizers/issues/)
+If you have an idea for a new workshop, you can dive right in and [build a new one](http://nodeschool.io/building-workshops.html). If you want feedback on your idea, open an issue on the [organisers repo issue tracker](https://github.com/nodeschool/organisers/issues/)
 
 #### improve documentation
 
-A big part of nodeschool is documenting our process in a way that helps other organizers build successful communities around the world.
+A big part of nodeschool is documenting our process in a way that helps other organisers build successful communities around the world.
 
 If you come across something that is unclear, either in a workshop, on our website, or anywhere else that has content tracked by git, please **send pull requests**!
 
@@ -63,9 +63,9 @@ If you have never sent a pull request before, we have a workshop that teaches yo
 
 https://github.com/jlord/git-it
 
-#### talk with other organizers
+#### talk with other organisers
 
-We have an [issue tracker specifically for organizers](https://github.com/nodeschool/organizers/issues). There are many more ways to contribute in there. 
+We have an [issue tracker specifically for organisers](https://github.com/nodeschool/organisers/issues). There are many more ways to contribute in there. 
 
 #### hack the process!
 

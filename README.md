@@ -1,21 +1,23 @@
-organizers 
+Organisers 
 ==========
 
-[![Gitter chat](https://badges.gitter.im/nodeschool/organizers.png)](https://gitter.im/nodeschool/organizers)
+[![Gitter chat](https://badges.gitter.im/nodeschool/organisers.png)](https://gitter.im/nodeschool/organisers)
 
-- Learn to run an event and get pro-tips from other organizers in the [organizers wiki](https://github.com/nodeschool/organizers/wiki)
-- Ask a question or browse discussions in the [organizers discussion board](https://github.com/nodeschool/organizers/issues)
+- Create Learn to run an event and get pro-tips from other organisers in the [organisers wiki](https://github.com/nodeschool/organisers/wiki)
 
-If you are an existing organizer, or intend to become one in the future **please read and abide by our [code of conduct](https://github.com/nodeschool/organizers/blob/master/code_of_conduct.md)**.
+- Ask a question or browse discussions in the [organisers discussion board](https://github.com/nodeschool/organisers/issues)
 
-## How to start a new NodeSchool chapter
+If you are an existing organiser, or intend to become one in the future **please read and abide by our [code of conduct](https://github.com/nodeschool/organisers/blob/master/code_of_conduct.md)**.
 
-**First, open an issue on this repo asking to get added as a chapter organizer**
+## How to start a new BreakfastJS club
+
+
+**First, open an issue on this repo asking to get added as a chapter organiser**
 
 Your issue should say something like this (not everything is required but it's nice to tell us a little about yourself so you don't come across as a total stranger):
 
 *
-Hi, I would like to start a nodeschool chapter for [name of geographic community]. I am [@your twitter name] on twitter and work at/on <name of company or project>. I will be co-organizing this chapter with [names of other organizers]. I have been using Node.js for 6 months and would like to help others learn as well.
+Hi, I would like to start a nodeschool chapter for [name of geographic community]. I am [@your twitter name] on twitter and work at/on <name of company or project>. I will be co-organizing this chapter with [names of other organisers]. I have been using Node.js for 6 months and would like to help others learn as well.
 *
 
 The chapter name should preferably be the name of the city, where the workshops will
@@ -24,11 +26,11 @@ be held. Alternatively the area should be small, but yet meaningful, e.g `prince
 
 **An existing Owner will have to respond and create your Chapter repository for you**
 
-Once you are an organizer follow these instructions to set up your NodeSchool chapter:
+Once you are an organiser follow these instructions to set up your NodeSchool chapter:
 
 ### 1
 
-You should have been added to the team called `chapter-organizers` and should have access to edit the new chapter repo, e.g. https://github.com/nodeschool/berlin
+You should have been added to the team called `chapter-organisers` and should have access to edit the new chapter repo, e.g. https://github.com/nodeschool/berlin
 
 ### 2
 
@@ -58,7 +60,7 @@ The chapter JSON file should look something like this:
   "location": "Baltimore, MD",
   "country": "US",
   "region": "North America",
-  "organizers": ["jasonrhodes"],
+  "organisers": ["jasonrhodes"],
   "website": "http://nodeschool.io/baltimore",
   "twitter": "bmorenodeschool",
   "repo": "http://github.com/nodeschool/baltimore"
@@ -73,10 +75,10 @@ The chapter JSON file should look something like this:
 | `location`* | This appears on the chapters.html page, often `<City>` or `<City, State>` but can be any geocode-able string |
 | `country` | If your location isn't a country, list the [ISO-3166 2-letter country code](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) for consistency |
 | `region`* | Choose an existing region from [the chapters page](http://nodeschool.io/chapters.html) if possible--if not then pick a broad, non-country region name |
-| `organizers` | An array of GitHub usernames |
+| `organisers` | An array of GitHub usernames |
 | `website` | URL to the main website for your chapter, if one exists besides your GitHub repo |
 | `repo`* | GitHub repo URL |
-| other? | Any other services like Twitter, Gitter, etc. that exist for the _chapter_ (not the organizer's info) |
+| other? | Any other services like Twitter, Gitter, etc. that exist for the _chapter_ (not the organiser's info) |
 
 *required
 
